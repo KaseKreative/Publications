@@ -1,0 +1,28 @@
+body {
+	background-image: url("../images/Background1.jpg");
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+
+.btn {
+	background-color: #c48964;
+	border-color:#6f442a;
+	color: white;
+	font-family: helvetica;
+}
+.btn:hover {
+	background-color:#a3643e;
+	border-color:#c48964;
+}
+.formats {
+	list-style: none;
+	text-align: center;
+}
+h1{
+	color:white;
+	font-family: helvetica;
+	text-align: center;
+}
+ul {
+	margin-top:5px;
+}
